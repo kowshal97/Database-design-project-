@@ -56,17 +56,13 @@ The project demonstrates end-to-end database design using PostgreSQL.
 ## 📸 Screenshots
 *(Add images into a `diagrams/` folder later — these links will display them)*
 
-- **Library ERD**  
-  [![Library ERD](./diagrams/library-erd.png)](./diagrams/library-erd.png)
+## 📸 Diagrams
 
-- **Library Logical Model**  
-  [![Library Logical](./diagrams/library-logical.png)](./diagrams/library-logical.png)
+- [Library ERD](https://github.com/kowshal97/Database-design-project-/raw/main/Diagram/library-erd.png)
+- [Library Logical Model](https://github.com/kowshal97/Database-design-project-/raw/main/Diagram/library-logical.png)
+- [College ERD](https://github.com/kowshal97/Database-design-project-/raw/main/Diagram/college-erd.png)
+- [College Logical Model](https://github.com/kowshal97/Database-design-project-/raw/main/Diagram/college-logical.png)
 
-- **College ERD**  
-  [![College ERD](./diagrams/college-erd.png)](./diagrams/college-erd.png)
-
-- **College Logical Model**  
-  [![College Logical](./diagrams/college-logical.png)](./diagrams/college-logical.png)
 
 
 ---
