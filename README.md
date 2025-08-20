@@ -53,8 +53,6 @@ The project demonstrates end-to-end database design using PostgreSQL.
 
 ---
 
-## 📸 Screenshots
-*(Add images into a `diagrams/` folder later — these links will display them)*
 
 ## 📸 Diagrams
 
