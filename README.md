@@ -13,7 +13,7 @@ This project includes **business definition, ERD modeling, logical & physical de
 ---
 
 ## 📂 Deliverable
-- [📥 Download Presentation (PPTX)](https://github.com/kowshal97/Lib and college/raw/main/Assignment1.pptx)
+- [📥 Download Presentation (PPTX)](https://github.com/kowshal97/Lib and college/raw/main/Lib and college.pptx)
 
 ---
 
