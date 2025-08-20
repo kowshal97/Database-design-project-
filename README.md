@@ -1,4 +1,4 @@
-# Assignment 1 – Database Design
+#  Database Design
 
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-blue)
